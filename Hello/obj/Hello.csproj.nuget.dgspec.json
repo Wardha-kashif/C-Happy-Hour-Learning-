@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\warda.kashif\\source\\repos\\Hello\\Hello\\Hello.csproj": {}
+    "C:\\Users\\warda.kashif\\source\\repos\\Basics\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\warda.kashif\\source\\repos\\Hello\\Hello\\Hello.csproj": {
+    "C:\\Users\\warda.kashif\\source\\repos\\Basics\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\warda.kashif\\source\\repos\\Hello\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\warda.kashif\\source\\repos\\Hello\\Hello\\Hello.csproj",
+        "projectPath": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\warda.kashif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\warda.kashif\\source\\repos\\Hello\\Hello\\obj\\",
+        "outputPath": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\warda.kashif\\AppData\\Roaming\\NuGet\\NuGet.Config",
