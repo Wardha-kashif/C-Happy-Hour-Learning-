@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\warda.kashif\\OneDrive - Logiciel Services LLC\\Desktop\\AspCoreWebAPI\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj": {}
+    "C:\\Users\\warda.kashif\\source\\repos\\Basics\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj": {}
   },
   "projects": {
-    "C:\\Users\\warda.kashif\\OneDrive - Logiciel Services LLC\\Desktop\\AspCoreWebAPI\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj": {
+    "C:\\Users\\warda.kashif\\source\\repos\\Basics\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\warda.kashif\\OneDrive - Logiciel Services LLC\\Desktop\\AspCoreWebAPI\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj",
+        "projectUniqueName": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj",
         "projectName": "ProblemSolving(.net)",
-        "projectPath": "C:\\Users\\warda.kashif\\OneDrive - Logiciel Services LLC\\Desktop\\AspCoreWebAPI\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj",
+        "projectPath": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\ProblemSolving(.net)\\ProblemSolving(.net)\\ProblemSolving(.net).csproj",
         "packagesPath": "C:\\Users\\warda.kashif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\warda.kashif\\OneDrive - Logiciel Services LLC\\Desktop\\AspCoreWebAPI\\ProblemSolving(.net)\\ProblemSolving(.net)\\obj\\",
+        "outputPath": "C:\\Users\\warda.kashif\\source\\repos\\Basics\\ProblemSolving(.net)\\ProblemSolving(.net)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\warda.kashif\\AppData\\Roaming\\NuGet\\NuGet.Config",
