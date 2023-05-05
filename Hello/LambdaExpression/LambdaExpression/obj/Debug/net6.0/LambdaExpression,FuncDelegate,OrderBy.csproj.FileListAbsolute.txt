@@ -1,0 +1,15 @@
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\bin\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.exe
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\bin\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.deps.json
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\bin\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.runtimeconfig.json
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\bin\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.dll
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\bin\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.pdb
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.csproj.AssemblyReference.cache
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.AssemblyInfoInputs.cache
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.AssemblyInfo.cs
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.dll
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\refint\LambdaExpression,FuncDelegate,OrderBy.dll
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.pdb
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\LambdaExpression,FuncDelegate,OrderBy.genruntimeconfig.cache
+C:\Users\warda.kashif\source\repos\Basics\Hello\LambdaExpression\LambdaExpression\obj\Debug\net6.0\ref\LambdaExpression,FuncDelegate,OrderBy.dll
