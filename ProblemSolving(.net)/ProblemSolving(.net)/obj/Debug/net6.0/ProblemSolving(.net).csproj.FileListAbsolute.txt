@@ -1,0 +1,15 @@
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).csproj.AssemblyReference.cache
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).AssemblyInfoInputs.cache
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).AssemblyInfo.cs
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).csproj.CoreCompileInputs.cache
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\bin\Debug\net6.0\ProblemSolving(.net).exe
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\bin\Debug\net6.0\ProblemSolving(.net).deps.json
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\bin\Debug\net6.0\ProblemSolving(.net).runtimeconfig.json
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\bin\Debug\net6.0\ProblemSolving(.net).dll
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\bin\Debug\net6.0\ProblemSolving(.net).pdb
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).dll
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\refint\ProblemSolving(.net).dll
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).pdb
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ProblemSolving(.net).genruntimeconfig.cache
+C:\Users\warda.kashif\OneDrive - Logiciel Services LLC\Desktop\AspCoreWebAPI\ProblemSolving(.net)\ProblemSolving(.net)\obj\Debug\net6.0\ref\ProblemSolving(.net).dll
